@@ -3,7 +3,6 @@
 # 🚀 Open Source Contributions (@Django)
 <!-- Green Django Badge -->
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
 <!-- Django Stubs / Type Checked Badge -->
 <img src="https://img.shields.io/badge/Django_Stubs-092E20?style=for-the-badge&logo=django&logoColor=44B78B" />
 
